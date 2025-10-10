@@ -1,97 +1,298 @@
-# 💫 Hi 👋, I'm Raghul  
+<div align="center">
 
-**Aspiring AI & Data Engineer || Full-Stack Developer || Python & SQL Enthusiast from India**  
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raghul%20AR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50"/>
 
-Email Me 👉 ✉️ **arraghul6@gmail.com**  
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Crafting+Data+Pipelines+%F0%9F%9A%80;Full-Stack+Development+%F0%9F%92%BB;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-# 💻 Tech Stack  
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=raghul017&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-005CDB?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white) 
+<!-- Social Badges -->
+<p>
+  <a href="mailto:arraghul6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raghul-ar05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/raghul017">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/RaghulAR7">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-### **Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge) 
-![Puter JS](https://img.shields.io/badge/PuterJS-000000?style=for-the-badge)  
+</div>
 
-### **AI/ML & Data Engineering**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![YOLOv5](https://img.shields.io/badge/YOLOv5-FF0000?style=for-the-badge) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge) 
-![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge) 
-![Data Analysis](https://img.shields.io/badge/DataAnalysis-4CAF50?style=for-the-badge) 
-![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge) 
-![Feature Engineering](https://img.shields.io/badge/FeatureEngineering-FFC300?style=for-the-badge) 
-![Data Engineering](https://img.shields.io/badge/DataEngineering-0072C6?style=for-the-badge) 
-
-### **Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+<br/>
 
 ---
 
-# 🏢 Experience  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Data Analyst & Engineering Intern** – *Futurense Technologies*  
-- Worked on **EDA, Feature Engineering, Data Analysis, and Data Engineering projects**  
-- Built and optimized **AI and ML pipelines**  
-- Hands-on with **Python, SQL, PyTorch, OpenCV, YOLOv5, Flask**  
+### 🚀 About Me
+
+```python
+class Raghul:
+    def __init__(self):
+        self.name = "Raghul AR"
+        self.role = "AI & Data Engineer"
+        self.location = "India 🇮🇳"
+        self.education = "Computer Science Engineering"
+        self.languages = ["Python", "JavaScript", "Java", "C", "SQL"]
+        self.interests = ["AI/ML", "Data Engineering", "Web Dev"]
+        
+    def current_focus(self):
+        return [
+            "🤖 Building AI-powered applications",
+            "📊 Data pipeline optimization",
+            "🌐 Full-stack development",
+            "🧠 Deep learning with PyTorch"
+        ]
+    
+    def fun_fact(self):
+        return "I turn coffee ☕ into code 💻 and data into insights 📈"
+```
+
+<br clear="right"/>
 
 ---
 
-# 📊 GitHub Stats  
+## 🛠️ Technology Arsenal
 
 <div align="center">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghul017&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghul017&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghul017&theme=radical">
-</div>  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raghul017&theme=dark&hide_border=false&layout=compact)  
+### 💻 Languages & Core
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,html,css,sql&theme=dark&perline=8" />
+</p>
 
-# 🐍 GitHub Contributions Snake Animation  
+### 🎨 Frontend Development
 
-<div align="center">
-  <h3>🐍 Raghul's Coding Journey in Motion!</h3>
-  <p>Each step of the snake represents a commit I made!</p>
-  <img alt="Snake animation" src="https://profile-readme-generator.com/assets/snake.svg" />
-  <br>
-  <sub>💻 Contributions tracked live on GitHub 🐍</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark&perline=4" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark&perline=5" />
+</p>
+
+### 🤖 AI/ML & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark&perline=2" />
+<img src="https://img.shields.io/badge/YOLOv5-FF0000?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv5"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+</p>
+
 </div>
 
 ---
 
-# 🌐 Connect with Me  
+## 💼 Professional Experience
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghul-ar05/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/raghul017) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RaghulAR7)  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Futurense Technologies
+**Data Analyst & Engineering Intern**
+
+- 📈 Performed comprehensive EDA & Feature Engineering
+- 🔧 Built & optimized AI/ML pipelines
+- 🐍 Developed Python & SQL solutions
+- 🎯 Worked with PyTorch, OpenCV & YOLOv5
+- 🌐 Deployed Flask-based ML applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Core Competencies
+
+- **Data Engineering**: Pipeline design, ETL processes
+- **Machine Learning**: Model training, optimization
+- **Deep Learning**: PyTorch, Computer Vision
+- **Web Development**: Full-stack applications
+- **Data Analysis**: Statistical analysis, visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghul017&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raghul017&theme=radical&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghul017&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghul017&theme=radical" />
+
+</div>
 
 ---
 
-# 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=raghul017&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=raghul017&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghul017/raghul017/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghul017/raghul017/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raghul017/raghul017/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghul017&bg_color=141321&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+## 🎯 2025 Goals & Focus Areas
+
+<div align="center">
+
+| 🎯 Goal | 📊 Progress | 🔥 Status |
+|---------|------------|-----------|
+| Master Advanced AI/ML | ████████░░ 80% | 🚀 In Progress |
+| Build Production ML Systems | ██████░░░░ 60% | 💪 Active |
+| Contribute to Open Source | ████░░░░░░ 40% | 🌱 Growing |
+| Cloud Platform Mastery | ███░░░░░░░ 30% | 📚 Learning |
+| Launch Personal Projects | ████████░░ 75% | 🔨 Building |
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+*Coming Soon! Stay tuned for insights on AI, Data Engineering, and Full-Stack Development* 🚀
+
+</div>
+
+---
+
+## 🎮 Holopin Badges
+
+<div align="center">
+
+[![An image of @raghul017's Holopin badges](https://holopin.me/raghul017)](https://holopin.io/@raghul017)
+
+</div>
+
+---
+
+## 🤝 Open to Opportunities
+
+<div align="center">
+
+### 💼 Actively seeking roles in:
+
+**AI/ML Engineering** • **Data Engineering** • **Full-Stack Development** • **Software Engineering**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Available%20for-Full%20Time%20Roles-success?style=for-the-badge&logo=handshake&logoColor=white" alt="Available"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-blue?style=for-the-badge&logo=github&logoColor=white" alt="Collaborations"/>
+<img src="https://img.shields.io/badge/Looking%20for-Innovative%20Projects-orange?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+
+</div>
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<br/>
+
+### 📫 Reach out for collaborations, opportunities, or just to say hi!
+
+<p>
+  <a href="mailto:arraghul6@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raghul-ar05/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/RaghulAR7">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+### ⭐ If you find my work interesting, consider starring my repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Typing" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+**Made with ❤️ and ☕ by Raghul AR**
+
+<sub>Last Updated: October 2025 | Built with passion and dedication</sub>
+
+</div>
