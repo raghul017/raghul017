@@ -26,7 +26,7 @@
   <a href="https://github.com/raghul017">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://portfolio-raghul.vercel.app">
+  <a href="https://raghul-portfolio2.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
